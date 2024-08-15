@@ -1,0 +1,5 @@
+export const CART = {
+  SET: "SET_PRODUCT_CART",
+  DEL: "DEL_PRODUCT_CART",
+  SET_STORE: "SET_ALL_PRODUCT_CART"
+};
